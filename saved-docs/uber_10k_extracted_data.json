@@ -1,0 +1,90 @@
+{
+  "document_type": "Uber 10-K Report",
+  "extraction_date": "2024-10-21",
+  "extracted_data": {
+    "items": [
+      {
+        "item": "Net income (loss) attributable to Uber Technologies, Inc.",
+        "value_2022": -9141,
+        "value_2023": 1887
+      },
+      {
+        "item": "Net income attributable to non-controlling interests, net of tax",
+        "value_2022": 3,
+        "value_2023": 269
+      },
+      {
+        "item": "Provision for (benefit from) income taxes",
+        "value_2022": -181,
+        "value_2023": 213
+      },
+      {
+        "item": "Income from equity method investments",
+        "value_2022": -107,
+        "value_2023": -48
+      },
+      {
+        "item": "Interest expense",
+        "value_2022": 565,
+        "value_2023": 633
+      },
+      {
+        "item": "Other (income) expense, net",
+        "value_2022": 7029,
+        "value_2023": -1844
+      },
+      {
+        "item": "Depreciation and amortization",
+        "value_2022": 947,
+        "value_2023": 823
+      },
+      {
+        "item": "Stock-based compensation expense",
+        "value_2022": 1793,
+        "value_2023": 1935
+      },
+      {
+        "item": "Legal, tax, and regulatory reserve changes and settlements",
+        "value_2022": 732,
+        "value_2023": 9
+      },
+      {
+        "item": "Goodwill and asset impairments/loss on sale of assets, net",
+        "value_2022": 25,
+        "value_2023": 84
+      },
+      {
+        "item": "Acquisition, financing and divestitures related expenses",
+        "value_2022": 46,
+        "value_2023": 36
+      },
+      {
+        "item": "Accelerated lease costs related to cease-use of ROU assets",
+        "value_2022": 6,
+        "value_2023": 0
+      },
+      {
+        "item": "COVID-19 response initiatives",
+        "value_2022": 1,
+        "value_2023": 0
+      },
+      {
+        "item": "Loss on lease arrangement, net",
+        "value_2022": 7,
+        "value_2023": 4
+      },
+      {
+        "item": "Restructuring and related charges",
+        "value_2022": 2,
+        "value_2023": 51
+      },
+      {
+        "item": "Mass arbitration fees, net",
+        "value_2022": -14,
+        "value_2023": 0
+      }
+    ],
+    "adjusted_ebitda_2022": 1713,
+    "adjusted_ebitda_2023": 4052
+  }
+}
