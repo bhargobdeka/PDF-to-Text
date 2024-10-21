@@ -1,0 +1,50 @@
+{
+  "document_type": "scanned-invoice",
+  "extraction_date": "2024-10-21",
+  "extracted_data": {
+    "Invoice Number": "78493",
+    "Issue Date": "2022-01-01",
+    "Due Date": "2022-01-07",
+    "From Address": {
+      "Name": "America Rall INC",
+      "Street": "123 Godly St.",
+      "City Zip": "Internet, 68493",
+      "Country": "United States"
+    },
+    "To Address": {
+      "Name": "Simon Wilson",
+      "Street": "1234, Boulevard avenue st",
+      "City Zip": "Miami, 67833",
+      "Country": "United States"
+    },
+    "Items": [
+      {
+        "Item": "Travel expenses",
+        "Cost": 2000,
+        "Quantity": 1,
+        "Total": 2000
+      },
+      {
+        "Item": "Logistics expenses",
+        "Cost": 5000,
+        "Quantity": 1,
+        "Total": 5000
+      },
+      {
+        "Item": "Allowance expenses",
+        "Cost": 1000,
+        "Quantity": 1,
+        "Total": 1000
+      }
+    ],
+    "Subtotal": 8000,
+    "Discount Percentage": 20,
+    "Discount Amount": 1400,
+    "Total Before Misc": 6600,
+    "Misc Costs": 1100,
+    "Total": 7700,
+    "Iban": "ABCD EFGH 0000 0000 0000",
+    "Notes": "This invoice is to be paid by wire transfer only, unless agreed otherwise and must be paid before the date due specified above.",
+    "Signature": "Deakins"
+  }
+}
