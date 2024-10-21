@@ -1,0 +1,10 @@
+llmwhisperer-client
+langchain==0.1.19
+langchain-anthropic==0.1.11
+langchain-community==0.0.38
+langchain-core==0.1.52
+langchain-experimental==0.0.58
+langchain-openai==0.1.6
+langchain-text-splitters==0.0.1
+langchainhub==0.1.15
+langsmith==0.1.56
