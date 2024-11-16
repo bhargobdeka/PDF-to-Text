@@ -1,0 +1,28 @@
+{
+  "document_type": "IRS-1098E",
+  "extraction_date": "2024-11-16",
+  "extraction_method": "PyMuPDF OCR + LangChain",
+  "extracted_data": {
+    "recipient": {
+      "name": "Simon Williams",
+      "street_address": "134, MarketView Avenue",
+      "city": "Florida",
+      "state": "FL",
+      "country": "United States",
+      "zip_code": "\u00ae @)24",
+      "phone_number": "(545) 533-1234"
+    },
+    "recipient_tin": "273-43-4323",
+    "borrower_tin": "403-433-433",
+    "borrower": {
+      "name": "Jack B",
+      "street_address": "893, Avenue express street",
+      "city": "Florida",
+      "state": "FL",
+      "country": "United States",
+      "zip_code": "penalty or other"
+    },
+    "account_number": "89493322",
+    "student_loan_interest": 3200
+  }
+}
