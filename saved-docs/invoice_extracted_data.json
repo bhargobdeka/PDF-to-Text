@@ -1,6 +1,6 @@
 {
   "document_type": "scanned-invoice",
-  "extraction_date": "2024-10-21",
+  "extraction_date": "2024-12-28",
   "extracted_data": {
     "Invoice Number": "78493",
     "Issue Date": "2022-01-01",
@@ -13,7 +13,7 @@
     },
     "To Address": {
       "Name": "Simon Wilson",
-      "Street": "1234, Boulevard avenue st",
+      "Street": "1234, Bouleward avenue st",
       "City Zip": "Miami, 67833",
       "Country": "United States"
     },
