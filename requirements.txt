@@ -10,3 +10,4 @@ langchainhub==0.1.15
 langsmith==0.1.56
 pypdf==4.3.1
 pydantic==2.8.2
+gradio
